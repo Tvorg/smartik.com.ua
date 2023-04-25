@@ -9,8 +9,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0px 25px;
 
+}
+.contentHeader-img{
+    padding: 0 10%;
 }
 
 .inform{
@@ -126,6 +128,7 @@
 }
 .social-link{
     margin-left: 5px;
+    size: 4px;
 }
 
 .contact__map {
