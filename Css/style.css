@@ -122,5 +122,12 @@
         margin-left: 10%;
         font-size: 20px;
     }
+    #infoFooter{
+        font-size: 32px;
+    }
+    #infoContent{
+        font-size: 32px;
+        font-family: Arial;
+    }
 
 }
