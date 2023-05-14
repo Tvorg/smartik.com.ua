@@ -124,10 +124,12 @@
     }
     #infoFooter{
         font-size: 32px;
+        font-family: Arial;
     }
     #infoContent{
-        font-size: 32px;
+        font-size: 35px;
         font-family: Arial;
+        margin-left: -7%;
     }
 
 }
