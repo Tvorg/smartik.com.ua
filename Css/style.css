@@ -87,3 +87,40 @@
     height: 50vh;
     width: 100%;
 }
+
+@media (max-width: 543px) {
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 100%;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    .smartikText{
+        max-width: 90%;
+        margin-left: 5%;
+    }
+    .mobileText{
+        max-width: 90%;
+        margin-left: 5%;
+    }
+    .logoSmartik{
+        max-width: 80%;
+        margin:  40px 0 0 10%;
+    }
+    .content{
+        max-width: 90%;
+        margin-left: 5%;
+    }
+    li{
+        margin-top: 10px;
+        font-family: Arial;
+    }
+    .inform-footer{
+        max-width: 90%;
+        margin-left: 10%;
+        font-size: 20px;
+    }
+
+}
