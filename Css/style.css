@@ -59,7 +59,7 @@
     font-size: 40px;
     text-decoration: none;
     margin-left: -25px;
-    margin-top: 40px;
+    margin-top: 50px;
 
 }
 .footer{
@@ -74,6 +74,7 @@
 .inform-footer {
     font-size: 26px;
     font-family: Arial;
+    align-items: center;
     color: #E9E9E9;
     width: 100%;
     margin-left: 38%;
@@ -138,7 +139,7 @@
     .infoTimeWork{
         max-width: 90%;
         margin-left: 10%;
-        font-size: 20px;
+        font-size: 22px;
 
     }
     #infoContent{
@@ -151,7 +152,7 @@
         font-family: Arial;
     }
     #infoTimeWork{
-        font-size: 32px;
+        font-size: 35px;
         font-family: Arial;
     }
 
