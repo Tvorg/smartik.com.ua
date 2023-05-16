@@ -66,7 +66,7 @@
     background-color:#0A0A0A;
     display: flex;
     justify-content: center;
-    padding: 40px 0 80px 0;
+    padding: 40px 0 60px 0;
     flex-wrap: wrap;
 
 }
@@ -137,7 +137,7 @@
     }
     .infoTimeWork{
         max-width: 90%;
-        margin-left: 13%;
+        margin-left: 10%;
         font-size: 20px;
 
     }
