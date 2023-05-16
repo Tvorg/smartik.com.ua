@@ -58,30 +58,27 @@
 #infoTimeWork{
     font-size: 40px;
     text-decoration: none;
-    /*margin-left: -25px;*/
-    margin: 30px 100px 0 -25px ;
+    margin-left: -25px;
+    margin-top: 20px;
 
 }
 .footer{
     background-color:#0A0A0A;
     display: flex;
     justify-content: center;
-    padding: 25px 0 25px 0;
-    flex-wrap: wrap;
+    padding: 25px 0 80px 0;
 
 }
 
-.inform-footer{
+.inform-footer {
     font-size: 26px;
     font-family: Arial;
     color: #E9E9E9;
-    padding: 0 35% 0 35%;
 }
 .infoTimeWork{
-       font-size: 26px;
+    font-size: 26px;
     font-family: Arial;
     color: #E9E9E9;
-
 }
 .social-link {
     margin-left: 5px;
