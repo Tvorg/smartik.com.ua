@@ -11,7 +11,7 @@ function initMap1() {
     });
 }
 function initMap2(){
-    let pos = {lat: 50.422395, lng: 30.378578};
+    let pos = {lat: 50.44657962469081, lng: 30.5231837122494};
     let map = new google.maps.Map(document.getElementById("map"), {
         center: pos,
         zoom: 17
