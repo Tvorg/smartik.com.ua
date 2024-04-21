@@ -133,19 +133,16 @@ a{
     }
     .smartikText{
         max-width: 90%;
-        margin-left: 5%;
+        
     }
     .mobileText{
         max-width: 90%;
-        margin-left: 5%;
     }
     .logoSmartik{
         max-width: 80%;
-        margin:  40px 0 0 10%;
     }
     .content{
         max-width: 90%;
-        margin-left: 10%;
     }
     li{
         margin-top: 10px;
@@ -153,7 +150,6 @@ a{
     }
     .inform-footer{
         max-width: 90%;
-        margin-left: 12%;
         font-size: 20px;
     }
     .magazinsLinks{
@@ -163,7 +159,6 @@ a{
     }
     .infoTimeWork{
         max-width: 90%;
-        margin-left: 10%;
         font-size: 22px;
 
     }
