@@ -9,19 +9,11 @@ a{
 /* Header */
 
 .header{
-    background-color:#0A0A0A;
+    background-color:black;
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
     align-items: center;
-
-
-}
-
-.logoSmartik{
-    margin-left: 20%;
-
-}
-
+    }
 
 .inform{
     color: #E9E9E9;
@@ -33,18 +25,29 @@ a{
 
 
 .content{
+    background-color: #0A0A0A;
+    color: #E9E9E9;
     display: flex;
-    justify-content: center;
-    padding: 25px 0 25px 0;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
     text-decoration: none;
     font-family: Arial;
     font-size: 26px;
     flex-wrap: wrap;
+    width: 100%;
 }
-.conteiner{
-    margin: 4px;
-    padding: 4px;
-    padding: 4px;
+.item {
+    flex-basis: 52%; /* Ширина елементу */
+    padding-left: 42.5%;
+    margin-bottom: 20px;
+}
+.contentText{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding-top: 26px;
 }
 
 
