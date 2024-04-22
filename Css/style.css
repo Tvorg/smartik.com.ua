@@ -39,7 +39,7 @@ a{
 }
 .item {
     flex-basis: 52%; /* Ширина елементу */
-    padding-left: 42.5%;
+    padding-left: 18%;
     margin-bottom: 20px;
 }
 .contentText{
@@ -89,7 +89,7 @@ a{
     align-items: center;
     color: #E9E9E9;
     width: 100%;
-    margin-left: 38%;
+    margin-left: 15%;
 }
 .magazinsLinks{
     font-size: 26px;
@@ -136,13 +136,13 @@ a{
         
     }
     .mobileText{
-        max-width: 90%;
+        max-width: 100%;
     }
     .logoSmartik{
-        max-width: 80%;
+        max-width: 100%;
     }
     .content{
-        max-width: 90%;
+        max-width: 100%;
     }
     li{
         margin-top: 10px;
