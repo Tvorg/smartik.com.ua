@@ -6,6 +6,11 @@
 a{
     text-decoration: none;
 }
+a[href^="tel:"] {
+    color: steelblue;
+    text-decoration: none;
+    font-size: 26px;
+  }
 /* Header */
 
 .header{
@@ -70,7 +75,7 @@ a{
 #infoTimeWork{
     font-size: 40px;
     text-decoration: none;
-    margin-left: -25px;
+    margin-left: 5px;
     margin-top: 50px;
 
 }
